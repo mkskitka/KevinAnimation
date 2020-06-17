@@ -1,0 +1,13 @@
+.monster {
+  text-align: center;
+  background-color: #111;
+  width: 150px;
+  height: 200px;
+  position: relative;
+  left: 45%;
+}
+
+.monster_div {
+}
+
+
